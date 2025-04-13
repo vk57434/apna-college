@@ -2,4 +2,4 @@
 
 this is my first project
 <br>
-author - vivek
+author - Vivek Kumar
